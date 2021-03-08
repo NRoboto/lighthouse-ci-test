@@ -11,5 +11,10 @@
     "next": "10.0.8",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@lhci/cli": "^0.7.0",
+    "@lhci/server": "^0.7.0",
+    "sqlite3": "^5.0.2"
   }
 }
